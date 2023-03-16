@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end developer
 -------------------
 
-И я Front-end developer. Мой путь в IT начался в 2020 году, когда я проявил интерес к этой области и начал изучать ее самостоятельно. Я начал свой путь начиная от Дмитрия Валак "BrainsCloud" и прошел курсы на платформе Udemy, что помогло мне получить качественные фундамент и навыки в разработке для дальнейшего изучения сферы. В 2022 году я решил взять разработку на серьез и поступил в IT incubator, где до сегодняшнего дня прокачиваю свои навыки и изучаю новые технологии. Стремясь к fullstack разработке.
+And I'm a Front-end developer. My path in IT started in 2020 when I became interested in this field and began studying it independently. I started my journey with Dmitry Valak's "BrainsCloud" and completed courses on the Udemy platform, which helped me gain a solid foundation and skills in development for further exploration of the field. In 2022, I decided to take development seriously and enrolled in an IT incubator, where I continue to enhance my skills and learn new technologies, aiming for fullstack development.
 * 🌍  I'm based in Oral, Kazakhstan
 * 🖥️  See my portfolio at [https://armazok.github.io/KlausWebsite/#home](http://https://armazok.github.io/KlausWebsite/#home)
 * ✉️  You can contact me at [nikolai.borsin@mail.ru](mailto:nikolai.borsin@mail.ru)
