@@ -6,7 +6,7 @@ Front-end developer
 
 And I'm a Front-end developer. My path in IT started in 2020 when I became interested in this field and began studying it independently. I started my journey with Dmitry Valak's "BrainsCloud" and completed courses on the Udemy platform, which helped me gain a solid foundation and skills in development for further exploration of the field. In 2022, I decided to take development seriously and enrolled in an IT incubator, where I continue to enhance my skills and learn new technologies, aiming for fullstack development.
 * 🌍  I'm based in Oral, Kazakhstan
-* 🖥️  See my portfolio at [https://armazok.github.io/KlausWebsite/#home](http://https://armazok.github.io/KlausWebsite/#home)
+* 🖥️  See my portfolio at [https://armazok.github.io/KlausWebsite/#home](http://https://armazok.github.io/KlausWebsite)
 * ✉️  You can contact me at [nikolai.borsin@mail.ru](mailto:nikolai.borsin@mail.ru)
 
 ### Front-End
