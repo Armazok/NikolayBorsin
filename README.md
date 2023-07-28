@@ -8,7 +8,8 @@ My journey in IT started in 2020, at that time I started to get interested in th
 * 🌍  I'm based in Kazakhstan
 * 🖥️  See my CV at https://drive.google.com/file/d/1wTi2wSnM1v5TA1XFZCvAo8-mcxmyuSj5/view?usp=sharing
 * 🖥️  See my portfolio at [https://armazok.github.io/KlausWebsite](https://armazok.github.io/KlausWebsite/#home)
-* ✉️  You can contact me at [@TutusCatutus](t.me/@TutusCatutus)
+* ✉️ You can contact me on Telegram: [TutusCatutus](https://t.me/TutusCatutus)
+
 
 
 
