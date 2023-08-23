@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end developer
 -------------------
 
-My journey in IT started in 2020, at that time I started to get interested in this field and decided to start learning on my own. The first step was Dmitry Valak's BrainsCloud course, which gave me a good start, I also completed several courses on the Udemy platform to consolidate fundamental knowledge and get the necessary skills for further development in this field. Since 2022, I seriously decided to get into development and enrolled in an IT incubator. To this day, I am actively developing my skills and delving into learning new technologies to become more competent.
+In 2020, I first delved into the world of information technology. My interest in this field motivated me to embark on self-learning. The first step on this journey was Dmitry Valak's course titled 'BrainsCloud,' which significantly prepared me for further immersion. In addition to this, I completed several educational programs on the Udemy platform. This allowed me to solidify fundamental knowledge and gain the necessary skills required for my development in this field.
+
+With the arrival of 2021, I made the decision to delve deeper into development and joined IT Incubator. From that point onward, I have been actively engaged in project activities, applying the accumulated knowledge in practice. My efforts are focused on expanding my technical arsenal and mastering cutting-edge technological solutions to enhance my competence in this field. My journey continues, and I am committed to continuous improvement in order to achieve new heights in the world of information technology.
+
 * 🌍  I'm based in Kazakhstan
 * 🖥️  See my [CV](https://drive.google.com/file/d/1wTi2wSnM1v5TA1XFZCvAo8-mcxmyuSj5/view?usp=sharing)
 * 🖥️  See my [KlausPortfolio](https://armazok.github.io/KlausWebsite/#home)
