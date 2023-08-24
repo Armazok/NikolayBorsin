@@ -9,7 +9,7 @@ In 2020, I first delved into the world of information technology. My interest in
 With the arrival of 2021, I made the decision to delve deeper into development and joined IT Incubator. From that point onward, I have been actively engaged in project activities, applying the accumulated knowledge in practice. My efforts are focused on expanding my technical arsenal and mastering cutting-edge technological solutions to enhance my competence in this field. My journey continues, and I am committed to continuous improvement in order to achieve new heights in the world of information technology.
 
 * 🌍  I'm based in Kazakhstan
-* 🖥️  See my [CV](https://drive.google.com/file/d/1wTi2wSnM1v5TA1XFZCvAo8-mcxmyuSj5/view?usp=sharing](https://drive.google.com/file/d/1W3yIS43yx7_fzHNRwQFZ30XCIvVVTvPO/view?usp=sharing))
+* 🖥️  See my [CV](https://drive.google.com/file/d/1W3yIS43yx7_fzHNRwQFZ30XCIvVVTvPO/view)
 * 🖥️  See my [KlausPortfolio](https://armazok.github.io/KlausWebsite/#home)
 * ✉️ You can contact me on Telegram: [TutusCatutus](https://t.me/TutusCatutus)
 
