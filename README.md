@@ -10,7 +10,7 @@ With the arrival of 2021, I made the decision to delve deeper into development a
 
 * 🌍  I'm based in Kazakhstan
 * 🖥️  See my [CV](https://drive.google.com/file/d/1w0RmzT6P-BOqG_uCL1JrTXpftAT6K4SG/view?usp=sharing)
-* 🖥️  See my [KlausPortfolio](https://armazok.github.io/KlausWebsite/#home](https://klaus-website.vercel.app/#home))
+* 🖥️  See my [KlausPortfolio](https://klaus-website.vercel.app/#home)
 * ✉️ You can contact me on Telegram: [TutusCatutus](https://t.me/TutusCatutus)
 
 
